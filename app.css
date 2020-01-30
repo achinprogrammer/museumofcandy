@@ -1,0 +1,28 @@
+h1{
+	color:rgb(16,160,150);
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+	/* for shortcut border:5px solid purple;  */
+}
+h2{
+	background-color: rgb(0,99,150);
+}
+body{
+    
+ 
+	/*
+	background:url("images2/dog1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	*/
+}
+li{
+	border:2px solid red;
+}
+#special{
+	background-color: yellow;
+}
+.hii{
+	text-decoration: line-through;
+}
